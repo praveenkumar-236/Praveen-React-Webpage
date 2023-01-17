@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Praveen_Portfolio/static/css/main.ba34c512.css",
-    "main.js": "/Praveen_Portfolio/static/js/main.6ee4c111.js",
+    "main.css": "/Praveen_Portfolio/static/css/main.a3f98916.css",
+    "main.js": "/Praveen_Portfolio/static/js/main.0c406fa7.js",
     "static/js/415.4d6acbeb.chunk.js": "/Praveen_Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Praveen_Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/home-main.svg": "/Praveen_Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/Praveen_Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Praveen_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/resume.pdf": "/Praveen_Portfolio/static/media/resume.af7a384a18913cd6c30d.pdf",
     "static/media/home-bg.jpg": "/Praveen_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/H11.svg": "/Praveen_Portfolio/static/media/H11.17fee62ae1baaa28ec7153ffb1009f49.svg",
-    "static/media/avatar.svg": "/Praveen_Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/Praveen_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/avatar.svg": "/Praveen_Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Praveen_Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Praveen_Portfolio/index.html",
-    "main.ba34c512.css.map": "/Praveen_Portfolio/static/css/main.ba34c512.css.map",
-    "main.6ee4c111.js.map": "/Praveen_Portfolio/static/js/main.6ee4c111.js.map",
+    "main.a3f98916.css.map": "/Praveen_Portfolio/static/css/main.a3f98916.css.map",
+    "main.0c406fa7.js.map": "/Praveen_Portfolio/static/js/main.0c406fa7.js.map",
     "415.4d6acbeb.chunk.js.map": "/Praveen_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Praveen_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba34c512.css",
-    "static/js/main.6ee4c111.js"
+    "static/css/main.a3f98916.css",
+    "static/js/main.0c406fa7.js"
   ]
 }
