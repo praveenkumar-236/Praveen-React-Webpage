@@ -13,47 +13,66 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
-        <Row>
-          <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
-            </h1>
-            <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> Java,Springboot,ReactJs,MySql, MongoDb etc...</b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Applications and Products </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Springboot</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
-            </p>
-          </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col>
-        </Row>
+      <Row>
+  <Col md={8} className="home-about-description">
+    <h1 style={{ fontSize: "2.6em" }}>
+      SKILLS & EXPERTISE
+    </h1>
+    <p className="home-about-body">
+      With a solid foundation in
+      <i>
+        <b className="purple"> C, C++, Java</b>
+      </i>
+      , I have honed my coding skills to create robust and efficient solutions.
+      <br />
+      <br />
+      Leveraging the <b className="purple">Spring Framework</b>, I specialize in developing backend applications that power modern software systems.
+      <br />
+      <br />
+      My proficiency extends to crafting engaging user experiences using
+      <i>
+        <b className="purple"> React.js, HTML, and CSS</b>
+      </i>
+      , ensuring seamless interactions and visually appealing interfaces.
+      <br />
+      <br />
+      I am well-versed in a range of tools, including
+      <i>
+        <b className="purple"> Kafka, Kibana, Postman, Jira,</b>
+      </i>
+      and the <b className="purple">Microsoft Office Suite</b>, enabling efficient project management and communication.
+      <br />
+      <br />
+      With a solid grasp of <b className="purple">AWS (Amazon Web Services)</b>, I can design, deploy, and manage cloud-based solutions.
+      <br />
+      <br />
+      Proficient in <b className="purple">Git</b> and <b className="purple">GitHub</b>, I adopt best practices for version control and collaborative development.
+      <br />
+      <br />
+      My database expertise spans
+      <i>
+        <b className="purple"> MySQL</b>
+      </i>
+      and
+      <i>
+        <b className="purple"> MongoDB</b>
+      </i>
+      , enabling efficient data management and storage solutions.
+      <br />
+      <br />
+      My problem-solving prowess shines through analytical thinking and creative troubleshooting, essential for delivering innovative solutions.
+      <br />
+      <br />
+      With strong communication skills and the ability to excel in an agile environment, I am a collaborative team player who drives project success.
+    </p>
+  </Col>
+  <Col md={4} className="myAvtar">
+    <Tilt>
+      <img src={myImg} className="img-fluid" alt="avatar" />
+    </Tilt>
+  </Col>
+</Row>
+
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>

@@ -10,9 +10,6 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Praveen Kumar D </span>
             from <span className="purple"> Madurai, India.</span>
-            {/* <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
-            <br /> */}
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -28,10 +25,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          {/* <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p> */}
-          {/* <footer className="blockquote-footer">Praveen Kumar</footer> */}
+         
         </blockquote>
       </Card.Body>
     </Card>
